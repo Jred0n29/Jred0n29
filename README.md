@@ -2,7 +2,7 @@
 Jred0n29</a></h1>
 <h3 align="center">Young man passionate about programming and mathematics. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jred0n29&label=Profile%20views&color=0e75b6&style=flat" alt="Jred0n29" /> </p>
 
 
 
